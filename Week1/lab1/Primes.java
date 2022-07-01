@@ -1,4 +1,4 @@
-package week1.lab1;
+package Week1.lab1;
 
 public class Primes {
     public static void main(String[] args) {
